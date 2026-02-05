@@ -1,11 +1,6 @@
-<img width="740" height="738" alt="image" src="https://github.com/user-attachments/assets/e18b80a8-cc63-407d-a6ab-7d1d44f95300" />
-
-<img width="717" height="955" alt="image" src="https://github.com/user-attachments/assets/0f809102-a0e2-47c4-8099-28f3847ec449" />
-
-
-
-[README.md](https://github.com/user-attachments/files/25089411/README.md)
 # GeoTIFF Data Inspection Toolkit
+<img width="740" height="738" alt="image" src="https://github.com/user-attachments/assets/e18b80a8-cc63-407d-a6ab-7d1d44f95300" />
+<img width="717" height="955" alt="image" src="https://github.com/user-attachments/assets/0f809102-a0e2-47c4-8099-28f3847ec449" />
 
 A Jupyter-based toolkit for inspecting satellite imagery stored as GeoTIFF files.
 Built for **flood mapping** and **water body detection** research workflows, but works with any multi-band GeoTIFF data.
